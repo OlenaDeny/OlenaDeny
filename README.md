@@ -1,21 +1,64 @@
-# Hi, I'm Olena Denysenko👋
+<h1 align="center">Olena Denysenko</h1>
+<p align="center">
 
-**Data Analyst | Python • SQL • Power BI • Tableau • QlikView**
+<div align="center">
 
-I turn messy, real-world data into decisions people can act on. 10+ years of experience across market research, BI reporting, and forecasting — now focused on the German/EU data & tech market.
+<!--- https://readme-typing-svg.herokuapp.com --->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=007bff&center=true&vCenter=true&width=500&lines=Daten+Analyst;BI+Analyst)](https://git.io/typing-svg)
 
-## 🔧 What I work with
-- **Languages & Libraries:** Python (NumPy, Pandas, spaCy), SQL
-- **BI & Visualization:** Power BI, Tableau, QlikView
-- **Data work:** data cleaning, data modeling, KPI reporting, dashboard development, NLP-based text extraction
-- **Other tools:** Excel (Pivot, Power Pivot), MS Access, SPSS
+<h3 align="center">SQL • Python • Power BI • Tableau • QlikView</h3>
+  
+I turn messy, real-world data into decisions people can act on. 10+ years of experience across market research, BI reporting, and forecasting - now focused on the German/EU data & tech market.
 
-## 📌 Featured project
-: coming soon*
+<p align="center">
+  <a href="https://linkedin.com/in/olenadenysenko-data-analytics">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-olenadenysenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />    
+  </a>
+  <a href="mailto:ale.denysenko@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ale.denysenko%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img alt="Location" src="https://img.shields.io/badge/Germany-_Hamburg-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />  
+</p>
 
-## 🌍 Background
-Originally from Ukraine, based in Hamburg, Germany. Spent the last two years retraining for the German IT/data market while building German language skills (B2) alongside hands-on technical practice.
+<br/>
 
-## 📫 Let's connect
-- LinkedIn: [linkedin.com/in/olenadenysenko-data-analytics](https://www.linkedin.com/in/olenadenysenko-data-analytics)
+---
+## Skills & Tools
+![Python](https://skillicons.dev/icons?i=python,git,github,vscode,mysql,mongodb)
+
+<!--- 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  </a> 
+-->
+![Pandas](https://img.shields.io/badge/Pandas-4479A1?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4479A1?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4479A1?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-4479A1?style=for-the-badge&logo=python&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-E97627?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![QlikView](https://img.shields.io/badge/QlikView-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Data work:** 
+![data cleaning](https://img.shields.io/badge/data_cleaning-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![data modeling](https://img.shields.io/badge/data_modeling-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![KPI reporting](https://img.shields.io/badge/KPI_reporting-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![dashboard development](https://img.shields.io/badge/dashboard_development-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![NLP based text extraction](https://img.shields.io/badge/NLP_based_text_extraction-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+
+## Featured project
+*Coming soon*
+
+## Let's connect
 - Portfolio site: [olenadeny.github.io](https://olenadeny.github.io) *(in progress)*
+
