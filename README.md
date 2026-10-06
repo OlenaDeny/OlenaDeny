@@ -76,7 +76,7 @@ I turn messy, real-world data into decisions people can act on. 10+ years of exp
 
 | Project Topic | Project Title | Description | Stack and Methods |
 | --- | --- | --- | --- |
-| [CRM Funnel Analysis](https://github.com/OlenaDeny/crm-funnel-analysis)](https://github.com/OlenaDeny/crm-funnel-analysis) | End-to-end analytics project on CRM data of an online IT school | data preparation, marketing and sales analytics, unit economics with a metrics tree, and a growth hypothesis with an A/B test design | Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter. The interactive dashboard (Dash) is shown as a screenshot, because it cannot be rendered on GitHub. |
+| [CRM Funnel Analysis](https://github.com/OlenaDeny/crm-funnel-analysis) | End-to-end analytics project on CRM data of an online IT school | data preparation, marketing and sales analytics, unit economics with a metrics tree, and a growth hypothesis with an A/B test design | Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter. The interactive dashboard (Dash) is shown as a screenshot, because it cannot be rendered on GitHub. |
 
 This list contains the most significant projects. The repository contains all projects (project descriptions are available within each project).
 <!---
