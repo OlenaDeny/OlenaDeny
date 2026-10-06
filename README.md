@@ -70,10 +70,16 @@ I turn messy, real-world data into decisions people can act on. 10+ years of exp
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-0A66C2?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<!---
-## Featured project
-*Coming soon*
 
+## Featured project
+<!---*Coming soon* -->
+
+| Project Topic | Project Title | Description | Stack and Methods |
+| --- | --- | --- | --- |
+| [CRM Funnel Analysis](https://github.com/OlenaDeny/crm-funnel-analysis)](https://github.com/OlenaDeny/crm-funnel-analysis) | End-to-end analytics project on CRM data of an online IT school | data preparation, marketing and sales analytics, unit economics with a metrics tree, and a growth hypothesis with an A/B test design | Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter. The interactive dashboard (Dash) is shown as a screenshot, because it cannot be rendered on GitHub. |
+
+This list contains the most significant projects. The repository contains all projects (project descriptions are available within each project).
+<!---
 ## Let's connect
 - Portfolio site: [olenadeny.github.io](https://olenadeny.github.io) *(in progress)*
   -->
