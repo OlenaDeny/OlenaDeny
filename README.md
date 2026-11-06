@@ -76,7 +76,8 @@ I turn messy, real-world data into decisions people can act on. 10+ years of exp
 
 | Project Topic | Project Title | Description | Stack and Methods |
 | --- | --- | --- | --- |
-| [CRM Funnel Analysis](https://github.com/OlenaDeny/crm-funnel-analysis) | End-to-end analytics project on CRM data of an online IT school | data preparation, marketing and sales analytics, unit economics with a metrics tree, and a growth hypothesis with an A/B test design | Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter. The interactive dashboard (Dash) is shown as a screenshot, because it cannot be rendered on GitHub. |
+| [CRM Funnel Analysis](https://github.com/OlenaDeny/crm-funnel-analysis) | End-to-end analytics project on CRM data of an online IT school | Data preparation, marketing and sales analytics, unit economics with a metrics tree, and a growth hypothesis with an A/B test design | Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter. The interactive dashboard (Dash) is shown as a screenshot, because it cannot be rendered on GitHub. |
+| [Bicycle Sales & Shipping Analysis](https://github.com/OlenaDeny/Bicycle-Sales-Shipping-Analysis) | End-to-end analytics project on bicycle retail sales, inventory, and shipping performance | Data quality checks, revenue analysis by product category and product, inventory vs. shipped revenue comparison, shipping performance by store and over time, and data-driven business recommendations | SQL (T-SQL), Python, pandas, Matplotlib, Jupyter Notebook. Data aggregation, KPI analysis, percentage comparisons, shipping performance analysis, and data quality assessment. |
 
 This list contains the most significant projects. The repository contains all projects (project descriptions are available within each project).
 <!---
